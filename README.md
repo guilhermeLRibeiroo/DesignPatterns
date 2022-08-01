@@ -1,4 +1,4 @@
-## I'm learning some design patterns
+## I'm learning Design Patterns
 
 Source (https://refactoring.guru/design-patterns)
 
