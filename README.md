@@ -11,3 +11,6 @@ Source (https://refactoring.guru/design-patterns)
 
 ### Abstract Factory
 > "*Abstract Factory is a creational design pattern that lets you produce families of related objects without specifying their concrete classes.*"
+
+### Builder
+> "*Builder is a creational design pattern that lets you construct complex objects step by step. The pattern allows you to produce different types and representations of an object using the same construction code.*"
