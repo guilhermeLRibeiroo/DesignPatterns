@@ -17,3 +17,6 @@ Source (https://refactoring.guru/design-patterns)
 
 ### Prototype
 > "*Prototype is a creational design pattern that lets you copy existing objects without making your code dependent on their classes.*"
+
+### Singleton
+> "*Singleton is a creational design pattern that lets you ensure that a class has only one instance, while providing a global access point to this instance.*"
