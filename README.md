@@ -29,3 +29,11 @@ Source (https://refactoring.guru/design-patterns)
 > "*Singleton is a creational design pattern that lets you ensure that a class has only one instance, while providing a global access point to this instance.*"
 
 [Source](https://refactoring.guru/design-patterns/singleton)
+
+## ☆ Structural Patterns
+> "*Structural design patterns explain how to assemble objects and classes into larger structures, while keeping these structures flexible and efficient.*"
+
+### Adapter
+> "*Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.*"
+
+[Source](https://refactoring.guru/design-patterns/adapter)
