@@ -2,6 +2,7 @@
 
 Source (https://refactoring.guru/design-patterns)
 
+
 ## ☆ Creational Patterns
 > "*These patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.*"
 
@@ -30,6 +31,7 @@ Source (https://refactoring.guru/design-patterns)
 
 [Source](https://refactoring.guru/design-patterns/singleton)
 
+
 ## ☆ Structural Patterns
 > "*Structural design patterns explain how to assemble objects and classes into larger structures, while keeping these structures flexible and efficient.*"
 
@@ -47,3 +49,8 @@ Source (https://refactoring.guru/design-patterns)
 > "*Composite is a structural design pattern that lets you compose objects into tree structures and then work with these structures as if they were individual objects.*"
 
 [Source](https://refactoring.guru/design-patterns/composite)
+
+### Decorator
+> "*Decorator is a structural design pattern that lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.*"
+
+[Source](https://refactoring.guru/design-patterns/decorator)
