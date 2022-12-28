@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using FactoryMethod.Creators;
+﻿using FactoryMethod.Creators;
 
 void ClientCode(AbstractCreator creator)
 {
