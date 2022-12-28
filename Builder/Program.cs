@@ -2,6 +2,8 @@
 using Builder.Builders;
 using Builder.Entities;
 
+// This pattern allows you create complex objects with different types and representations using the same code.
+
 var director = new Director();
 
 // Sports Car
