@@ -1,5 +1,7 @@
 ﻿using Entities;
 
+// Flyweight pattern is used to reduce the numbers of objects created, increase performance and decrease memory footprint
+
 var factory = new FlyweightFactory(
         new Car { Company = "CarCompany", Model = "NiceModel2018", Color = "red" },
         new Car { Company = "CarCompany2", Model = "OKModel2020", Color = "blue" },
