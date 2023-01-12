@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 
-namespace IteratorPattern
+namespace Iterator.Aggregates
 {
     public abstract class IteratorAggregate
         : IEnumerable

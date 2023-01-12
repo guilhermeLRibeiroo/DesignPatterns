@@ -1,4 +1,7 @@
-﻿namespace IteratorPattern
+﻿using Iterator.Aggregates;
+using IteratorPattern;
+
+namespace Iterator.Iterators
 {
     public class ForestIterator
         : Iterator
@@ -30,7 +33,7 @@
         {
             int updatedPosition = _position + 1;
 
-            if(updatedPosition >= 0 && updatedPosition <= _collection.GetItems().Count)
+            if (updatedPosition >= 0 && updatedPosition <= _collection.GetItems().Count)
             {
                 _position = updatedPosition;
                 return true;

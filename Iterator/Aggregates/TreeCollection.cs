@@ -1,6 +1,7 @@
-﻿using System.Collections;
+﻿using Iterator.Iterators;
+using IteratorPattern;
 
-namespace IteratorPattern
+namespace Iterator.Aggregates
 {
     public class TreeCollection
         : IteratorAggregate
@@ -17,7 +18,7 @@ namespace IteratorPattern
             _trees.Add(tree);
         }
 
-        public override IEnumerator GetEnumerator()
+        public override ForestIterator GetEnumerator()
         {
             return new ForestIterator(this);
         }
