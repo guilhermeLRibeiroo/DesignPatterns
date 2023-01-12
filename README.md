@@ -83,3 +83,8 @@ Source (https://refactoring.guru/design-patterns)
 > "*Command is a behavioral design pattern that turns a request into a stand-alone object that contains all information about the request. This transformation lets you pass requests as a method arguments, delay or queue a request's execution, and support undoable operations.*"
 
 [Source](https://refactoring.guru/design-patterns/command)
+
+### Iterator
+> "*Iterator is a behavioral design pattern that lets you traverse elements of a collection without exposing its underlying representation (list, stack, tree, etc.).*"
+
+[Source](https://refactoring.guru/design-patterns/iterator)
