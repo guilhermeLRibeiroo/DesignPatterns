@@ -88,3 +88,8 @@ Source (https://refactoring.guru/design-patterns)
 > "*Iterator is a behavioral design pattern that lets you traverse elements of a collection without exposing its underlying representation (list, stack, tree, etc.).*"
 
 [Source](https://refactoring.guru/design-patterns/iterator)
+
+### Mediator
+> "*Mediator is a behavioral design pattern that lets you reduce chaotic dependencies between objects. The pattern restricts direct communications between the objects and forces them to collaborate only via a mediator object.*"
+
+[Source](https://refactoring.guru/design-patterns/mediator)

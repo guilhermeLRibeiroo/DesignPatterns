@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibility", "Ch
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Command", "Command\Command.csproj", "{6E43D6E3-372D-4D23-A58B-26BC8EF43147}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterator.csproj", "{DF63DCF2-5D3F-4AD4-B2ED-6EF4DB9F855D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iterator", "Iterator\Iterator.csproj", "{DF63DCF2-5D3F-4AD4-B2ED-6EF4DB9F855D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Mediator\Mediator.csproj", "{588476ED-EF87-4299-8CA4-E86D11E9A400}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{DF63DCF2-5D3F-4AD4-B2ED-6EF4DB9F855D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF63DCF2-5D3F-4AD4-B2ED-6EF4DB9F855D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF63DCF2-5D3F-4AD4-B2ED-6EF4DB9F855D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{588476ED-EF87-4299-8CA4-E86D11E9A400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588476ED-EF87-4299-8CA4-E86D11E9A400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588476ED-EF87-4299-8CA4-E86D11E9A400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588476ED-EF87-4299-8CA4-E86D11E9A400}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -125,6 +131,7 @@ Global
 		{D5498B75-2FE1-4772-BAD1-377D545334B2} = {8F6CA624-E7AE-40DA-9168-B4CD89E4DB46}
 		{6E43D6E3-372D-4D23-A58B-26BC8EF43147} = {8F6CA624-E7AE-40DA-9168-B4CD89E4DB46}
 		{DF63DCF2-5D3F-4AD4-B2ED-6EF4DB9F855D} = {8F6CA624-E7AE-40DA-9168-B4CD89E4DB46}
+		{588476ED-EF87-4299-8CA4-E86D11E9A400} = {8F6CA624-E7AE-40DA-9168-B4CD89E4DB46}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D1A65D82-CA1A-4DF4-A3D5-4CF73F3C1285}
