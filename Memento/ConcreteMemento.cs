@@ -1,6 +1,4 @@
-﻿using Memento.Mementos;
-
-namespace Memento
+﻿namespace Memento
 {
     public class ConcreteMemento
         : IMemento
