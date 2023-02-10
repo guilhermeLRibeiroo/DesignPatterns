@@ -93,3 +93,8 @@ Source (https://refactoring.guru/design-patterns)
 > "*Mediator is a behavioral design pattern that lets you reduce chaotic dependencies between objects. The pattern restricts direct communications between the objects and forces them to collaborate only via a mediator object.*"
 
 [Source](https://refactoring.guru/design-patterns/mediator)
+
+### Memento
+> "*Memento is a behavioral design pattern that lets you save and restore the previous state of an object without revealing the details of its implementation.*"
+
+[Source](https://refactoring.guru/design-patterns/memento)
