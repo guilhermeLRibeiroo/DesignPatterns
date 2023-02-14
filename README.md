@@ -98,3 +98,8 @@ Source (https://refactoring.guru/design-patterns)
 > "*Memento is a behavioral design pattern that lets you save and restore the previous state of an object without revealing the details of its implementation.*"
 
 [Source](https://refactoring.guru/design-patterns/memento)
+
+### Observer
+> "Observer is a behavioral design pattern that lets you define a subscription mechanism to notify multiple objects about any events that happen to the object they’re observing."
+
+[Source](https://refactoring.guru/design-patterns/observer)
