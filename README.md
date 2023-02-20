@@ -113,3 +113,8 @@ Source (https://refactoring.guru/design-patterns)
 > "Strategy is a behavioral design pattern that lets you define a family of algorithms, put each of them into a separate class, and make their objects interchangeable."
 
 [Source](https://refactoring.guru/design-patterns/strategy)
+
+### Template Method
+> "Template Method is a behavioral design pattern that defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure."
+
+[Source](https://refactoring.guru/design-patterns/template-method)
