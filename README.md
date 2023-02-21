@@ -118,3 +118,8 @@ Source (https://refactoring.guru/design-patterns)
 > "Template Method is a behavioral design pattern that defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure."
 
 [Source](https://refactoring.guru/design-patterns/template-method)
+
+### Visitor
+> "Visitor is a behavioral design pattern that lets you separate algorithms from the objects on which they operate."
+
+[Source](https://refactoring.guru/design-patterns/visitor)
